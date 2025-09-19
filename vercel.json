@@ -4,5 +4,11 @@
       "source": "/features/manual-scanner/:path*",
       "destination": "https://ats-scanner2.onrender.com/:path*"
     }
+
+    {
+      "source": "/((?!api/|_next/|favicon.ico|.*\\..*).*)",
+      "destination": "/index.html"
+    }
+  
   ]
 }
