@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/features/manual-scanner/:path*",
+      "destination": "https://ats-scanner2.onrender.com/:path*"
+    }
+  ]
+}

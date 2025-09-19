@@ -1,0 +1,111 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Infosys",
+      "logo": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "IT Services",
+      "description": "Infosys is a global leader in next-generation digital services and consulting. We help clients navigate their digital transformation journey with cutting-edge technologies and innovative solutions.",
+      "hiringProcess": [
+        "Online Assessment (Aptitude + Technical)",
+        "Technical Interview Round 1",
+        "Technical Interview Round 2", 
+        "HR Interview",
+        "Final Selection"
+      ],
+      "eligibility": {
+        "education": "B.Tech/B.E/M.Tech in CS/IT/ECE or equivalent",
+        "cgpa": "6.0+ CGPA",
+        "backlog": "No active backlogs",
+        "age": "Maximum 28 years"
+      },
+      "salary": "₹3.2 - 4.5 LPA",
+      "averagePackage": 3.85,
+      "difficulty": "Medium",
+      "selectionRatio": 0.15,
+      "workLifeBalance": 4.2,
+      "innovation": 4.0,
+      "growth": 4.1,
+      "tips": [
+        "Focus on data structures and algorithms",
+        "Practice coding problems daily",
+        "Understand OOPS concepts thoroughly", 
+        "Prepare for system design basics",
+        "Be confident during HR round"
+      ],
+      "culture": ["Work-life balance", "Learning opportunities", "Global exposure", "Team collaboration"]
+    },
+    {
+      "id": 2,
+      "name": "TCS",
+      "logo": "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "IT Services",
+      "description": "Tata Consultancy Services is an Indian multinational information technology services and consulting company with headquarters in Mumbai. Known for its comprehensive training programs and global reach.",
+      "hiringProcess": [
+        "Online Aptitude Test",
+        "Coding Round",
+        "Technical Interview",
+        "Managerial Round",
+        "HR Interview"
+      ],
+      "eligibility": {
+        "education": "B.E/B.Tech/M.E/M.Tech/MCA in any discipline",
+        "cgpa": "6.0+ CGPA throughout academics",
+        "backlog": "No pending backlogs",
+        "age": "Maximum 28 years"
+      },
+      "salary": "₹3.36 - 7 LPA",
+      "averagePackage": 5.18,
+      "difficulty": "Easy-Medium",
+      "selectionRatio": 0.25,
+      "workLifeBalance": 4.5,
+      "innovation": 3.8,
+      "growth": 4.3,
+      "tips": [
+        "Strong foundation in programming fundamentals",
+        "Good communication skills essential",
+        "Be prepared for puzzle questions",
+        "Know about TCS services and values",
+        "Practice aptitude questions regularly"
+      ],
+      "culture": ["Employee welfare", "Diversity", "Continuous learning", "Social responsibility"]
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "logo": "https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "category": "Product",
+      "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products. Known for its innovative culture and cutting-edge technology solutions.",
+      "hiringProcess": [
+        "Online Assessment",
+        "Phone/Video Screen",
+        "Onsite Interviews (4-5 rounds)",
+        "Hiring Committee Review",
+        "Final Approval"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech from premier institutes",
+        "cgpa": "8.0+ CGPA",
+        "backlog": "No backlogs allowed", 
+        "age": "No specific age limit"
+      },
+      "salary": "₹15 - 45 LPA",
+      "averagePackage": 30,
+      "difficulty": "Very Hard",
+      "selectionRatio": 0.02,
+      "workLifeBalance": 4.0,
+      "innovation": 4.9,
+      "growth": 4.8,
+      "tips": [
+        "Master data structures and algorithms",
+        "Practice system design extensively",
+        "Understand Google's products and culture",
+        "Focus on problem-solving approach",
+        "Be ready for behavioral questions"
+      ],
+      "culture": ["Innovation", "Collaboration", "Impact", "Bold thinking"]
+    }
+  ]
+}
+
+

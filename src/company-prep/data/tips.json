@@ -1,0 +1,51 @@
+{
+  "communityTips": [
+    {
+      "id": 1,
+      "company": "Google",
+      "author": "Amit Verma",
+      "tip": "Focus heavily on system design. Google loves candidates who can think at scale. Practice designing systems like YouTube, Gmail, etc.",
+      "likes": 45,
+      "category": "Interview Prep",
+      "date": "2024-01-10"
+    },
+    {
+      "id": 2,
+      "company": "TCS",
+      "author": "Neha Gupta",
+      "tip": "TCS aptitude test has a lot of time pressure. Practice speed math and logical reasoning daily. Don't spend too much time on difficult questions.",
+      "likes": 32,
+      "category": "Aptitude",
+      "date": "2024-01-08"
+    },
+    {
+      "id": 3,
+      "company": "Infosys",
+      "author": "Rajesh Kumar",
+      "tip": "Infosys technical interviews focus on practical coding. Be ready to write code on paper/whiteboard. Practice common algorithms without IDE.",
+      "likes": 28,
+      "category": "Technical",
+      "date": "2024-01-05"
+    },
+    {
+      "id": 4,
+      "company": "Google",
+      "author": "Priya Sharma",
+      "tip": "Google's behavioral interviews are as important as technical ones. Use the STAR method and prepare stories that show leadership and impact.",
+      "likes": 38,
+      "category": "HR",
+      "date": "2024-01-03"
+    },
+    {
+      "id": 5,
+      "company": "TCS",
+      "author": "Karthik Reddy",
+      "tip": "For TCS coding round, focus on basic programming concepts. They test fundamentals more than complex algorithms. Clean, readable code is valued.",
+      "likes": 25,
+      "category": "Coding",
+      "date": "2024-01-01"
+    }
+  ]
+}
+
+
