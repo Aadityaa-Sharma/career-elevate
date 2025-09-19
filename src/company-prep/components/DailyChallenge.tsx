@@ -29,9 +29,9 @@ const DailyChallenge: React.FC = () => {
       transition={{ delay: 0.2, duration: 0.4 }}
       className="max-w-xl mx-auto"
     >
-      <Card className="rounded-2xl shadow-md border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900">
+      <Card>
         <CardHeader className="pb-2">
-          <CardTitle className="flex items-center gap-2 text-purple-700 dark:text-purple-400 text-lg font-semibold">
+          <CardTitle className="flex items-center gap-2 text-primary text-lg font-semibold">
             <Calendar className="h-5 w-5" />
             Daily Challenge
             <Trophy className="h-4 w-4 text-yellow-500" />
@@ -40,7 +40,7 @@ const DailyChallenge: React.FC = () => {
 
         <CardContent className="space-y-6">
           {/* Question */}
-          <p className="text-base font-medium leading-relaxed text-gray-900 dark:text-gray-100">
+          <p className="text-base font-medium leading-relaxed">
             {challenge.question}
           </p>
 
@@ -61,34 +61,37 @@ const DailyChallenge: React.FC = () => {
                   disabled={showResult}
                   className={`w-full flex items-center gap-3 p-3 rounded-xl border transition-all text-left
                     ${isSelected && !showResult 
-                      ? 'border-purple-500 bg-purple-50 dark:bg-purple-900/20 text-purple-900 dark:text-purple-100' 
+                      ? 'border-primary bg-primary/10 text-foreground' 
                       : ''}
                     ${showAsCorrect 
-                      ? 'border-green-500 bg-green-50 dark:bg-green-900/20 text-green-900 dark:text-green-100' 
+                      ? 'border-green-500 bg-green-500/10 text-foreground' 
                       : ''}
                     ${showAsWrong 
-                      ? 'border-red-500 bg-red-50 dark:bg-red-900/20 text-red-900 dark:text-red-100' 
+                      ? 'border-red-500 bg-red-500/10 text-foreground' 
                       : ''}
                     ${!isSelected && !showAsCorrect && !showAsWrong 
-                      ? 'border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:border-purple-400 hover:bg-purple-50 dark:hover:bg-purple-900/10' 
+                      ? 'border-border text-muted-foreground hover:border-primary/50 hover:bg-primary/5' 
                       : ''}
                   `}
                 >
                   <div
                     className={`w-6 h-6 flex items-center justify-center rounded-full border-2 shrink-0
-                      ${isSelected && !showResult ? 'border-purple-500 bg-purple-500' : ''}
+                      ${isSelected && !showResult ? 'border-primary bg-primary' : ''}
                       ${showAsCorrect ? 'border-green-500 bg-green-500' : ''}
                       ${showAsWrong ? 'border-red-500 bg-red-500' : ''}
-                      ${!isSelected && !showAsCorrect && !showAsWrong ? 'border-gray-400 dark:border-gray-500' : ''}
+                      ${!isSelected && !showAsCorrect && !showAsWrong ? 'border-muted-foreground' : ''}
                     `}
                   >
+                    {(isSelected && !showResult) || showAsCorrect || showAsWrong ? (
+                      <div className="w-2 h-2 bg-white rounded-full" />
+                    ) : null}
                     {showResult && (showAsCorrect ? (
                       <CheckCircle className="w-3.5 h-3.5 text-white" />
                     ) : showAsWrong ? (
                       <XCircle className="w-3.5 h-3.5 text-white" />
                     ) : null)}
                   </div>
-                  <span className="text-sm sm:text-base">{option}</span>
+                  <span className="text-sm sm:text-base font-normal">{option}</span>
                 </motion.button>
               )
             })}
@@ -98,7 +101,7 @@ const DailyChallenge: React.FC = () => {
           {!showResult && selectedAnswer !== null && (
             <Button
               onClick={handleSubmit}
-              className="w-full rounded-xl font-medium bg-purple-600 hover:bg-purple-700 text-white"
+              className="w-full rounded-xl font-medium"
             >
               Submit Answer
             </Button>
@@ -111,8 +114,8 @@ const DailyChallenge: React.FC = () => {
               animate={{ opacity: 1, y: 0 }}
               className={`p-4 rounded-xl border ${
                 isCorrect
-                  ? 'bg-green-50 dark:bg-green-900/20 border-green-300 dark:border-green-600'
-                  : 'bg-red-50 dark:bg-red-900/20 border-red-300 dark:border-red-600'
+                  ? 'bg-green-500/10 border-green-500'
+                  : 'bg-red-500/10 border-red-500'
               }`}
             >
               <div className="flex items-center gap-2 mb-1">
@@ -131,7 +134,7 @@ const DailyChallenge: React.FC = () => {
                   {isCorrect ? 'Correct!' : 'Incorrect'}
                 </span>
               </div>
-              <p className="text-sm text-gray-700 dark:text-gray-300">
+              <p className="text-sm text-muted-foreground font-normal">
                 {challenge.explanation}
               </p>
               {isCorrect && (
