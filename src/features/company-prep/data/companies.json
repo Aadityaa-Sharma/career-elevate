@@ -1,0 +1,1185 @@
+
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Google India",
+      "logo": "https://img.logo.dev/google.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Google India is the Indian subsidiary of Google LLC, offering cutting-edge technology solutions, cloud services, and innovative products. Known for excellent work culture and challenging technical problems.",
+      "locations": ["Bangalore", "Hyderabad", "Gurgaon", "Mumbai"],
+      "companySize": "10,000+",
+      "founded": 2004,
+      "roles": [
+        {
+          "title": "Software Engineer (L3)",
+          "salaryRange": "₹29.5 - 35 LPA",
+          "averageSalary": 32,
+          "experience": "0-2 years",
+          "skills": ["Data Structures", "Algorithms", "System Design", "Java/Python/C++", "Problem Solving"],
+          "responsibilities": [
+            "Design and develop scalable software solutions",
+            "Write clean, maintainable code",
+            "Collaborate with cross-functional teams",
+            "Participate in code reviews"
+          ]
+        },
+        {
+          "title": "Software Engineer (L4)",
+          "salaryRange": "₹52.6 - 87.8 LPA",
+          "averageSalary": 71.8,
+          "experience": "3-5 years",
+          "skills": ["Advanced System Design", "Leadership", "Architecture", "Scalability", "Mentoring"],
+          "responsibilities": [
+            "Lead technical projects",
+            "Design complex distributed systems",
+            "Mentor junior engineers",
+            "Drive technical excellence"
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "salaryRange": "₹35 - 55 LPA",
+          "averageSalary": 45,
+          "experience": "2-4 years",
+          "skills": ["Machine Learning", "Python", "TensorFlow", "Statistics", "Big Data", "SQL"],
+          "responsibilities": [
+            "Build ML models for product features",
+            "Analyze large datasets",
+            "A/B testing and experimentation",
+            "Collaborate with product teams"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Assessment (Coding)",
+        "Phone Screen (Technical)",
+        "Virtual Onsite (4-5 rounds)",
+        "Hiring Committee Review",
+        "Team Matching"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech from Tier-1 institutes",
+        "cgpa": "8.0+ CGPA",
+        "backlog": "No backlogs",
+        "preferredColleges": ["IIT", "NIT", "BITS", "IIIT"]
+      },
+      "difficulty": "Very Hard",
+      "selectionRatio": 0.02,
+      "workLifeBalance": 4.0,
+      "innovation": 4.9,
+      "growth": 4.8,
+      "glassdoorRating": 4.5,
+      "benefits": ["Health Insurance", "Stock Options", "Free Meals", "Gym", "Learning Budget", "Flexible Hours"],
+      "culture": ["Innovation-driven", "Collaborative", "Data-driven decisions", "20% time for side projects"],
+      "interviewTips": [
+        "Master DSA - practice 200+ LeetCode problems",
+        "Understand Google's products deeply",
+        "Practice system design extensively",
+        "Prepare behavioral stories using STAR method",
+        "Show passion for solving complex problems"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Microsoft India",
+      "logo": "https://img.logo.dev/microsoft.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Microsoft India Development Center (MSIDC) is one of Microsoft's largest R&D centers outside headquarters, working on Azure, Office 365, Windows, and AI innovations.",
+      "locations": ["Bangalore", "Hyderabad", "Noida", "Pune"],
+      "companySize": "15,000+",
+      "founded": 1998,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "salaryRange": "₹18 - 28 LPA",
+          "averageSalary": 23,
+          "experience": "0-2 years",
+          "skills": ["C#/.NET", "Azure", "System Design", "Algorithms", "Cloud Computing"],
+          "responsibilities": [
+            "Develop features for Microsoft products",
+            "Write high-quality, testable code",
+            "Participate in agile development",
+            "Collaborate globally"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "salaryRange": "₹35 - 55 LPA",
+          "averageSalary": 45,
+          "experience": "3-6 years",
+          "skills": ["Advanced .NET", "Azure Services", "Microservices", "DevOps", "Leadership"],
+          "responsibilities": [
+            "Architect scalable solutions",
+            "Lead feature development",
+            "Mentor team members",
+            "Drive technical decisions"
+          ]
+        },
+        {
+          "title": "Cloud Solution Architect",
+          "salaryRange": "₹42 - 70 LPA",
+          "averageSalary": 56,
+          "experience": "5-8 years",
+          "skills": ["Azure", "Cloud Architecture", "DevOps", "Kubernetes", "Solution Design"],
+          "responsibilities": [
+            "Design cloud solutions for clients",
+            "Lead cloud migrations",
+            "Provide technical guidance",
+            "Pre-sales support"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Assessment",
+        "Phone Screen",
+        "Onsite/Virtual Interviews (3-4 rounds)",
+        "Hiring Manager Round",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech in CS/IT",
+        "cgpa": "7.5+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["IIT", "NIT", "BITS", "Top Engineering colleges"]
+      },
+      "difficulty": "Hard",
+      "selectionRatio": 0.05,
+      "workLifeBalance": 4.2,
+      "innovation": 4.7,
+      "growth": 4.6,
+      "glassdoorRating": 4.4,
+      "benefits": ["Health Insurance", "Stock Purchase Plan", "Parental Leave", "Learning Resources", "Gym"],
+      "culture": ["Growth mindset", "Inclusive", "Collaborative", "Customer-focused"],
+      "interviewTips": [
+        "Focus on DSA and system design",
+        "Understand Microsoft's cloud offerings",
+        "Prepare real-world examples",
+        "Show customer empathy",
+        "Practice coding on whiteboard"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Amazon India",
+      "logo": "https://img.logo.dev/amazon.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Amazon India is a major development center for Amazon's global operations, working on AWS, e-commerce platform, Alexa, and various customer-facing innovations.",
+      "locations": ["Bangalore", "Hyderabad", "Chennai", "Mumbai", "Pune"],
+      "companySize": "100,000+",
+      "founded": 2013,
+      "roles": [
+        {
+          "title": "Software Development Engineer I (SDE I)",
+          "salaryRange": "₹21.2 - 29.9 LPA",
+          "averageSalary": 27.4,
+          "experience": "0-2 years",
+          "skills": ["Java/Python/C++", "DSA", "AWS", "Distributed Systems", "OOP"],
+          "responsibilities": [
+            "Build scalable e-commerce features",
+            "Write efficient, maintainable code",
+            "Participate in on-call rotation",
+            "Collaborate with global teams"
+          ]
+        },
+        {
+          "title": "Software Development Engineer II (SDE II)",
+          "salaryRange": "₹38 - 60 LPA",
+          "averageSalary": 49,
+          "experience": "2-5 years",
+          "skills": ["Advanced DSA", "System Design", "AWS Services", "Leadership", "Scalability"],
+          "responsibilities": [
+            "Design and own complex systems",
+            "Lead project execution",
+            "Mentor junior developers",
+            "Drive architectural decisions"
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "salaryRange": "₹30 - 50 LPA",
+          "averageSalary": 40,
+          "experience": "2-4 years",
+          "skills": ["ML/AI", "Python", "AWS SageMaker", "Statistics", "Deep Learning"],
+          "responsibilities": [
+            "Build recommendation systems",
+            "Develop ML models for forecasting",
+            "A/B testing and experimentation",
+            "Optimize customer experience"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Assessment (OA1, OA2)",
+        "Phone Screen",
+        "Onsite/Virtual (3-4 rounds)",
+        "Bar Raiser Round",
+        "Hiring Manager Review"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech from premier institutes",
+        "cgpa": "7.5+ CGPA",
+        "backlog": "No backlogs preferred",
+        "preferredColleges": ["IIT", "NIT", "BITS", "IIIT"]
+      },
+      "difficulty": "Hard",
+      "selectionRatio": 0.04,
+      "workLifeBalance": 3.8,
+      "innovation": 4.6,
+      "growth": 4.7,
+      "glassdoorRating": 4.2,
+      "benefits": ["Health Insurance", "RSUs", "Sign-on Bonus", "Relocation", "Employee Discounts"],
+      "culture": ["Customer obsession", "Ownership", "High bar", "Deliver results"],
+      "interviewTips": [
+        "Know Amazon's Leadership Principles",
+        "Practice system design problems",
+        "Strong DSA foundation required",
+        "Prepare STAR method stories",
+        "Focus on scalability discussions"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Meta (Facebook) India",
+      "logo": "https://img.logo.dev/meta.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Meta India focuses on building products for billions globally including Facebook, Instagram, WhatsApp, and cutting-edge AR/VR technologies.",
+      "locations": ["Bangalore", "Gurgaon", "Hyderabad"],
+      "companySize": "5,000+",
+      "founded": 2010,
+      "roles": [
+        {
+          "title": "Software Engineer (E3)",
+          "salaryRange": "₹33.2 - 45 LPA",
+          "averageSalary": 39,
+          "experience": "0-2 years",
+          "skills": ["React", "Python", "System Design", "GraphQL", "Mobile Development"],
+          "responsibilities": [
+            "Build features for Meta platforms",
+            "Optimize performance at scale",
+            "Collaborate across teams",
+            "Ship quality code rapidly"
+          ]
+        },
+        {
+          "title": "Software Engineer (E4)",
+          "salaryRange": "₹55 - 90 LPA",
+          "averageSalary": 72,
+          "experience": "3-5 years",
+          "skills": ["Advanced React", "Backend Systems", "Infrastructure", "ML", "Leadership"],
+          "responsibilities": [
+            "Lead major product initiatives",
+            "Design distributed systems",
+            "Mentor engineers",
+            "Drive technical strategy"
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "salaryRange": "₹40 - 70 LPA",
+          "averageSalary": 55,
+          "experience": "2-5 years",
+          "skills": ["Python", "SQL", "Causal Inference", "A/B Testing", "ML", "Statistics"],
+          "responsibilities": [
+            "Drive product decisions with data",
+            "Build experimentation frameworks",
+            "Analyze user behavior",
+            "Collaborate with PM and Eng"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Recruiter Screen",
+        "Phone Screen (Coding)",
+        "Virtual Onsite (4-5 rounds)",
+        "Hiring Committee",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech from top colleges",
+        "cgpa": "8.0+ CGPA",
+        "backlog": "No backlogs",
+        "preferredColleges": ["IIT", "BITS", "Top NIT", "IIIT"]
+      },
+      "difficulty": "Very Hard",
+      "selectionRatio": 0.03,
+      "workLifeBalance": 4.0,
+      "innovation": 4.8,
+      "growth": 4.7,
+      "glassdoorRating": 4.3,
+      "benefits": ["Health Insurance", "RSUs", "Free Food", "Wellness", "Learning Budget", "WFH Options"],
+      "culture": ["Move fast", "Bold", "Focus on impact", "Be open"],
+      "interviewTips": [
+        "Master system design at scale",
+        "Strong coding fundamentals",
+        "Understand Meta's products",
+        "Practice behavioral questions",
+        "Show impact-driven mindset"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Adobe India",
+      "logo": "https://img.logo.dev/adobe.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Adobe India is a major innovation hub developing creative cloud products, document cloud solutions, and experience cloud platforms used by millions worldwide.",
+      "locations": ["Bangalore", "Noida"],
+      "companySize": "6,000+",
+      "founded": 1998,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "salaryRange": "₹16 - 24 LPA",
+          "averageSalary": 20,
+          "experience": "0-2 years",
+          "skills": ["C++", "Java", "JavaScript", "UI/UX", "Algorithms"],
+          "responsibilities": [
+            "Develop creative software features",
+            "Optimize application performance",
+            "Work on cross-platform solutions",
+            "Collaborate with designers"
+          ]
+        },
+        {
+          "title": "Senior Computer Scientist",
+          "salaryRange": "₹32 - 52 LPA",
+          "averageSalary": 42,
+          "experience": "4-7 years",
+          "skills": ["Advanced C++", "Graphics Programming", "Architecture", "ML", "Leadership"],
+          "responsibilities": [
+            "Lead product development",
+            "Design technical solutions",
+            "Research new technologies",
+            "Mentor team members"
+          ]
+        },
+        {
+          "title": "Machine Learning Engineer",
+          "salaryRange": "₹28 - 48 LPA",
+          "averageSalary": 38,
+          "experience": "3-5 years",
+          "skills": ["Python", "TensorFlow", "Computer Vision", "NLP", "Deep Learning"],
+          "responsibilities": [
+            "Build AI features for products",
+            "Research ML algorithms",
+            "Deploy models at scale",
+            "Collaborate with research team"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Coding Test",
+        "Technical Phone Screen",
+        "Onsite Interviews (3-4 rounds)",
+        "Hiring Manager Round",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech/MCA",
+        "cgpa": "7.0+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["IIT", "NIT", "BITS", "Top colleges"]
+      },
+      "difficulty": "Medium-Hard",
+      "selectionRatio": 0.08,
+      "workLifeBalance": 4.3,
+      "innovation": 4.6,
+      "growth": 4.4,
+      "glassdoorRating": 4.3,
+      "benefits": ["Health Insurance", "Stock Options", "Gym", "Learning Budget", "Flexible Work"],
+      "culture": ["Creative", "Innovation-focused", "Collaborative", "Employee-centric"],
+      "interviewTips": [
+        "Strong C++ and DSA skills",
+        "Understand creative workflows",
+        "Graphics programming knowledge helps",
+        "Prepare portfolio if applicable",
+        "Show passion for Adobe products"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Flipkart",
+      "logo": "https://img.logo.dev/flipkart.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Flipkart is India's leading e-commerce platform, part of Walmart, known for innovation in supply chain, payments, and customer experience.",
+      "locations": ["Bangalore", "Hyderabad", "Gurgaon"],
+      "companySize": "10,000+",
+      "founded": 2007,
+      "roles": [
+        {
+          "title": "Software Development Engineer",
+          "salaryRange": "₹15 - 22 LPA",
+          "averageSalary": 18.5,
+          "experience": "0-2 years",
+          "skills": ["Java", "Spring Boot", "Microservices", "DSA", "REST APIs"],
+          "responsibilities": [
+            "Build e-commerce platform features",
+            "Develop scalable backend systems",
+            "Optimize application performance",
+            "Participate in agile ceremonies"
+          ]
+        },
+        {
+          "title": "Senior SDE",
+          "salaryRange": "₹28 - 45 LPA",
+          "averageSalary": 36.5,
+          "experience": "3-6 years",
+          "skills": ["Advanced Java", "System Design", "Kafka", "Redis", "Distributed Systems"],
+          "responsibilities": [
+            "Design high-scale systems",
+            "Lead technical projects",
+            "Mentor junior engineers",
+            "Drive architectural decisions"
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "salaryRange": "₹22 - 38 LPA",
+          "averageSalary": 30,
+          "experience": "2-4 years",
+          "skills": ["Python", "ML", "SQL", "Big Data", "Recommendation Systems"],
+          "responsibilities": [
+            "Build personalization engines",
+            "Develop demand forecasting models",
+            "A/B testing and analytics",
+            "Optimize search algorithms"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Coding Test",
+        "Technical Phone Interview",
+        "Face-to-face Interviews (2-3 rounds)",
+        "Hiring Manager Round",
+        "HR Discussion"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech from good colleges",
+        "cgpa": "7.0+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["IIT", "NIT", "BITS", "IIIT", "Tier-1/2 colleges"]
+      },
+      "difficulty": "Medium",
+      "selectionRatio": 0.12,
+      "workLifeBalance": 3.9,
+      "innovation": 4.3,
+      "growth": 4.5,
+      "glassdoorRating": 4.0,
+      "benefits": ["Health Insurance", "ESOPs", "Meal Allowance", "Gym", "Learning Budget"],
+      "culture": ["Fast-paced", "Entrepreneurial", "Data-driven", "Customer-first"],
+      "interviewTips": [
+        "Strong DSA and problem-solving",
+        "Understand e-commerce challenges",
+        "Know about supply chain tech",
+        "Prepare system design for scale",
+        "Show ownership mindset"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Swiggy",
+      "logo": "https://img.logo.dev/swiggy.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Swiggy is India's largest food delivery and quick commerce platform, revolutionizing last-mile delivery with technology and logistics innovation.",
+      "locations": ["Bangalore", "Hyderabad", "Gurgaon", "Mumbai"],
+      "companySize": "5,000+",
+      "founded": 2014,
+      "roles": [
+        {
+          "title": "Software Development Engineer",
+          "salaryRange": "₹14 - 20 LPA",
+          "averageSalary": 17,
+          "experience": "0-2 years",
+          "skills": ["Python", "Java", "Golang", "DSA", "Microservices"],
+          "responsibilities": [
+            "Build delivery platform features",
+            "Develop real-time systems",
+            "Optimize routing algorithms",
+            "Work on mobile backend"
+          ]
+        },
+        {
+          "title": "Senior SDE",
+          "salaryRange": "₹25 - 40 LPA",
+          "averageSalary": 32.5,
+          "experience": "3-6 years",
+          "skills": ["System Design", "Distributed Systems", "Kafka", "MongoDB", "Leadership"],
+          "responsibilities": [
+            "Design scalable architecture",
+            "Lead product features",
+            "Mentor team members",
+            "Drive technical excellence"
+          ]
+        },
+        {
+          "title": "Data Scientist",
+          "salaryRange": "₹20 - 35 LPA",
+          "averageSalary": 27.5,
+          "experience": "2-5 years",
+          "skills": ["ML", "Python", "Operations Research", "Optimization", "Forecasting"],
+          "responsibilities": [
+            "Build demand prediction models",
+            "Optimize delivery routing",
+            "Pricing and surge algorithms",
+            "Customer analytics"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Coding Assessment",
+        "Technical Phone Interview",
+        "Onsite Rounds (2-3)",
+        "Hiring Manager Discussion",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech",
+        "cgpa": "7.0+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["IIT", "NIT", "BITS", "IIIT", "Good engineering colleges"]
+      },
+      "difficulty": "Medium",
+      "selectionRatio": 0.10,
+      "workLifeBalance": 3.7,
+      "innovation": 4.4,
+      "growth": 4.6,
+      "glassdoorRating": 3.9,
+      "benefits": ["Health Insurance", "ESOPs", "Food Credits", "Gym", "Learning Budget"],
+      "culture": ["Fast-paced", "Execution-focused", "Innovation", "Hustle"],
+      "interviewTips": [
+        "Strong DSA foundation",
+        "Understand logistics problems",
+        "System design for real-time systems",
+        "Show product thinking",
+        "Prepare for high-growth environment"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Zomato",
+      "logo": "https://img.logo.dev/zomato.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Zomato is a leading food delivery and restaurant discovery platform, leveraging technology to connect customers with restaurants and optimize delivery logistics.",
+      "locations": ["Gurgaon", "Bangalore", "Mumbai"],
+      "companySize": "4,000+",
+      "founded": 2008,
+      "roles": [
+        {
+          "title": "Software Development Engineer",
+          "salaryRange": "₹13 - 19 LPA",
+          "averageSalary": 16,
+          "experience": "0-2 years",
+          "skills": ["Java", "Python", "Node.js", "React", "DSA"],
+          "responsibilities": [
+            "Develop platform features",
+            "Build APIs and services",
+            "Optimize user experience",
+            "Work on mobile applications"
+          ]
+        },
+        {
+          "title": "Senior SDE",
+          "salaryRange": "₹24 - 38 LPA",
+          "averageSalary": 31,
+          "experience": "3-6 years",
+          "skills": ["Microservices", "System Design", "Kubernetes", "AWS", "Leadership"],
+          "responsibilities": [
+            "Architect scalable solutions",
+            "Lead feature development",
+            "Drive technical decisions",
+            "Mentor engineers"
+          ]
+        },
+        {
+          "title": "Product Manager",
+          "salaryRange": "₹22 - 40 LPA",
+          "averageSalary": 31,
+          "experience": "3-5 years",
+          "skills": ["Product Strategy", "Analytics", "User Research", "A/B Testing", "Roadmapping"],
+          "responsibilities": [
+            "Define product vision",
+            "Drive feature development",
+            "Analyze metrics and KPIs",
+            "Collaborate with stakeholders"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Assessment",
+        "Technical Interviews (2 rounds)",
+        "Hiring Manager Round",
+        "Cultural Fit Round",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech from recognized colleges",
+        "cgpa": "7.0+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["IIT", "NIT", "Top engineering colleges"]
+      },
+      "difficulty": "Medium",
+      "selectionRatio": 0.11,
+      "workLifeBalance": 3.8,
+      "innovation": 4.2,
+      "growth": 4.4,
+      "glassdoorRating": 3.8,
+      "benefits": ["Health Insurance", "ESOPs", "Meal Benefits", "Learning Budget", "Flexible Work"],
+      "culture": ["High ownership", "Fast execution", "Customer-centric", "Innovative"],
+      "interviewTips": [
+        "Good DSA and coding skills",
+        "Understand food-tech ecosystem",
+        "Prepare for product discussions",
+        "Show metrics-driven thinking",
+        "Demonstrate ownership"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Paytm",
+      "logo": "https://img.logo.dev/paytm.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "Paytm is India's leading digital payments and financial services company, offering payment solutions, banking, insurance, and wealth management products.",
+      "locations": ["Noida", "Bangalore", "Mumbai"],
+      "companySize": "10,000+",
+      "founded": 2010,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "salaryRange": "₹12 - 18 LPA",
+          "averageSalary": 15,
+          "experience": "0-2 years",
+          "skills": ["Java", "Spring Boot", "Microservices", "SQL", "DSA"],
+          "responsibilities": [
+            "Develop payment systems",
+            "Build secure applications",
+            "Integrate payment gateways",
+            "Ensure compliance"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "salaryRange": "₹22 - 35 LPA",
+          "averageSalary": 28.5,
+          "experience": "3-6 years",
+          "skills": ["Advanced Java", "System Design", "Security", "Distributed Systems", "Leadership"],
+          "responsibilities": [
+            "Design payment architecture",
+            "Lead security implementations",
+            "Mentor team members",
+            "Drive technical roadmap"
+          ]
+        },
+        {
+          "title": "Data Analyst",
+          "salaryRange": "₹10 - 18 LPA",
+          "averageSalary": 14,
+          "experience": "1-3 years",
+          "skills": ["SQL", "Python", "Tableau", "Excel", "Statistics"],
+          "responsibilities": [
+            "Analyze transaction data",
+            "Generate business insights",
+            "Build dashboards",
+            "Support decision-making"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Test",
+        "Technical Interviews (2-3 rounds)",
+        "Managerial Round",
+        "HR Round",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.Tech/B.E/MCA",
+        "cgpa": "6.5+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["IIT", "NIT", "Good colleges"]
+      },
+      "difficulty": "Medium",
+      "selectionRatio": 0.13,
+      "workLifeBalance": 3.6,
+      "innovation": 4.1,
+      "growth": 4.3,
+      "glassdoorRating": 3.7,
+      "benefits": ["Health Insurance", "ESOPs", "Meal Coupons", "Life Insurance", "Learning"],
+      "culture": ["Fast-paced", "Results-driven", "Customer-first", "Innovative"],
+      "interviewTips": [
+        "Strong Java and backend skills",
+        "Understand payment security",
+        "Knowledge of fintech domain",
+        "Prepare for system design",
+        "Show compliance awareness"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "PhonePe",
+      "logo": "https://img.logo.dev/phonepe.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Product Based",
+      "description": "PhonePe is India's leading digital payments platform with 400M+ users, offering UPI payments, financial services, and building the digital payment infrastructure.",
+      "locations": ["Bangalore", "Pune", "Mumbai"],
+      "companySize": "3,000+",
+      "founded": 2015,
+      "roles": [
+        {
+          "title": "Software Engineer",
+          "salaryRange": "₹18 - 26 LPA",
+          "averageSalary": 22,
+          "experience": "0-2 years",
+          "skills": ["Java", "Kotlin", "Spring Boot", "Microservices", "DSA"],
+          "responsibilities": [
+            "Build payment features",
+            "Develop high-availability systems",
+            "Optimize transaction processing",
+            "Ensure security compliance"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "salaryRange": "₹32 - 50 LPA",
+          "averageSalary": 41,
+          "experience": "3-6 years",
+          "skills": ["System Design", "High-scale Architecture", "Kafka", "Redis", "Leadership"],
+          "responsibilities": [
+            "Design payment infrastructure",
+            "Lead critical projects",
+            "Ensure 99.99% uptime",
+            "Mentor engineering team"
+          ]
+        },
+        {
+          "title": "Backend Engineer",
+          "salaryRange": "₹20 - 30 LPA",
+          "averageSalary": 25,
+          "experience": "2-4 years",
+          "skills": ["Java", "Distributed Systems", "Database Design", "API Development"],
+          "responsibilities": [
+            "Build scalable APIs",
+            "Optimize database queries",
+            "Implement caching strategies",
+            "Monitor system performance"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Coding Test",
+        "Technical Phone Screen",
+        "Onsite Interviews (2-3 rounds)",
+        "Hiring Manager Round",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.Tech/M.Tech",
+        "cgpa": "7.5+ CGPA",
+        "backlog": "No backlogs",
+        "preferredColleges": ["IIT", "NIT", "BITS", "IIIT", "Top colleges"]
+      },
+      "difficulty": "Medium-Hard",
+      "selectionRatio": 0.09,
+      "workLifeBalance": 4.0,
+      "innovation": 4.5,
+      "growth": 4.7,
+      "glassdoorRating": 4.2,
+      "benefits": ["Health Insurance", "Stock Options", "Meals", "Gym", "Learning Budget", "WFH"],
+      "culture": ["High ownership", "Innovation-driven", "Fast execution", "Customer-focused"],
+      "interviewTips": [
+        "Strong DSA and system design",
+        "Understand payment systems",
+        "Know about UPI architecture",
+        "Prepare for high-scale problems",
+        "Show ownership mentality"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Infosys",
+      "logo": "https://img.logo.dev/infosys.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Service Based",
+      "description": "Infosys is a global leader in next-generation digital services and consulting, helping clients navigate digital transformation across multiple industries.",
+      "locations": ["Bangalore", "Pune", "Hyderabad", "Chennai", "Mysore"],
+      "companySize": "350,000+",
+      "founded": 1981,
+      "roles": [
+        {
+          "title": "System Engineer",
+          "salaryRange": "₹3.5 - 4.5 LPA",
+          "averageSalary": 4.0,
+          "experience": "0-1 years",
+          "skills": ["Java", "Python", "SQL", "Basic Programming", "Problem Solving"],
+          "responsibilities": [
+            "Work on client projects",
+            "Write code as per requirements",
+            "Participate in training programs",
+            "Learn new technologies"
+          ]
+        },
+        {
+          "title": "Senior System Engineer",
+          "salaryRange": "₹6 - 10 LPA",
+          "averageSalary": 8.0,
+          "experience": "3-5 years",
+          "skills": ["Advanced Programming", "Framework Knowledge", "Client Communication", "Team Management"],
+          "responsibilities": [
+            "Lead small teams",
+            "Design technical solutions",
+            "Client interaction",
+            "Code reviews and mentoring"
+          ]
+        },
+        {
+          "title": "Technology Lead",
+          "salaryRange": "₹12 - 18 LPA",
+          "averageSalary": 15.0,
+          "experience": "6-9 years",
+          "skills": ["Architecture", "Leadership", "Multiple Technologies", "Project Management"],
+          "responsibilities": [
+            "Lead project delivery",
+            "Architect solutions",
+            "Manage client relationships",
+            "Team building and mentoring"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Assessment (Aptitude + Technical)",
+        "Technical Interview",
+        "HR Interview",
+        "Final Selection"
+      ],
+      "eligibility": {
+        "education": "B.E/B.Tech/M.E/M.Tech/MCA",
+        "cgpa": "6.0+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["All tier colleges welcome"]
+      },
+      "difficulty": "Easy-Medium",
+      "selectionRatio": 0.18,
+      "workLifeBalance": 4.2,
+      "innovation": 3.9,
+      "growth": 4.0,
+      "glassdoorRating": 3.7,
+      "benefits": ["Health Insurance", "Training Programs", "Work from Home", "Travel Opportunities"],
+      "culture": ["Learning-oriented", "Professional", "Global exposure", "Stable"],
+      "interviewTips": [
+        "Focus on fundamentals",
+        "Good communication skills",
+        "Aptitude preparation important",
+        "Be aware of latest tech trends",
+        "Show willingness to learn"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "TCS (Tata Consultancy Services)",
+      "logo": "https://img.logo.dev/tcs.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Service Based",
+      "description": "TCS is India's largest IT services company, providing consulting-led, integrated portfolio of IT and IT-enabled services delivered through its unique Global Network Delivery Model.",
+      "locations": ["Mumbai", "Bangalore", "Chennai", "Pune", "Hyderabad", "Kolkata"],
+      "companySize": "600,000+",
+      "founded": 1968,
+      "roles": [
+        {
+          "title": "Assistant System Engineer",
+          "salaryRange": "₹3.36 - 4.0 LPA",
+          "averageSalary": 3.68,
+          "experience": "0-1 years",
+          "skills": ["Programming Basics", "Database", "Web Technologies", "Communication"],
+          "responsibilities": [
+            "Learn assigned technology",
+            "Work on project modules",
+            "Follow coding standards",
+            "Complete training milestones"
+          ]
+        },
+        {
+          "title": "System Engineer",
+          "salaryRange": "₹5 - 8 LPA",
+          "averageSalary": 6.5,
+          "experience": "2-4 years",
+          "skills": ["Java/Python", "Frameworks", "Client Handling", "Team Collaboration"],
+          "responsibilities": [
+            "Develop application modules",
+            "Support senior developers",
+            "Client communication",
+            "Bug fixing and testing"
+          ]
+        },
+        {
+          "title": "IT Analyst",
+          "salaryRange": "₹9 - 14 LPA",
+          "averageSalary": 11.5,
+          "experience": "5-7 years",
+          "skills": ["Solution Design", "Multiple Tech Stacks", "Leadership", "Stakeholder Management"],
+          "responsibilities": [
+            "Analyze requirements",
+            "Design solutions",
+            "Lead small teams",
+            "Manage deliverables"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "National Qualifier Test (NQT)",
+        "Technical Interview",
+        "Managerial Round",
+        "HR Interview"
+      ],
+      "eligibility": {
+        "education": "B.E/B.Tech/M.E/M.Tech/MCA/M.Sc",
+        "cgpa": "6.0+ CGPA throughout",
+        "backlog": "No pending backlogs",
+        "preferredColleges": ["All colleges"]
+      },
+      "difficulty": "Easy",
+      "selectionRatio": 0.25,
+      "workLifeBalance": 4.3,
+      "innovation": 3.7,
+      "growth": 4.1,
+      "glassdoorRating": 3.8,
+      "benefits": ["Health Insurance", "Employee Welfare", "Training", "Global Opportunities"],
+      "culture": ["Employee-first", "Diverse", "Learning culture", "Stable"],
+      "interviewTips": [
+        "Good aptitude skills",
+        "Basic programming knowledge",
+        "Communication is key",
+        "Know about TCS values",
+        "Be confident and honest"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Wipro",
+      "logo": "https://img.logo.dev/wipro.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Service Based",
+      "description": "Wipro is a leading global information technology, consulting and business process services company, helping clients adapt and thrive in the changing world.",
+      "locations": ["Bangalore", "Hyderabad", "Pune", "Chennai", "Noida"],
+      "companySize": "250,000+",
+      "founded": 1945,
+      "roles": [
+        {
+          "title": "Project Engineer",
+          "salaryRange": "₹3.5 - 4.2 LPA",
+          "averageSalary": 3.85,
+          "experience": "0-1 years",
+          "skills": ["C/C++/Java", "SQL", "Web Development", "Communication"],
+          "responsibilities": [
+            "Undergo training programs",
+            "Work on assigned projects",
+            "Learn industry practices",
+            "Collaborate with teams"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "salaryRange": "₹7 - 12 LPA",
+          "averageSalary": 9.5,
+          "experience": "4-6 years",
+          "skills": ["Advanced Programming", "Design Patterns", "Agile", "Leadership"],
+          "responsibilities": [
+            "Design and develop solutions",
+            "Mentor junior engineers",
+            "Code reviews",
+            "Client interactions"
+          ]
+        },
+        {
+          "title": "Technical Architect",
+          "salaryRange": "₹15 - 25 LPA",
+          "averageSalary": 20.0,
+          "experience": "8-12 years",
+          "skills": ["Enterprise Architecture", "Cloud", "Multiple Domains", "Strategic Thinking"],
+          "responsibilities": [
+            "Design enterprise solutions",
+            "Technology evaluation",
+            "Lead technical teams",
+            "Pre-sales support"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "WILP Test/Online Assessment",
+        "Technical Interview",
+        "HR Interview",
+        "Final Selection"
+      ],
+      "eligibility": {
+        "education": "B.E/B.Tech/MCA",
+        "cgpa": "6.0+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["All tier colleges"]
+      },
+      "difficulty": "Easy-Medium",
+      "selectionRatio": 0.20,
+      "workLifeBalance": 4.1,
+      "innovation": 3.8,
+      "growth": 4.0,
+      "glassdoorRating": 3.7,
+      "benefits": ["Health Insurance", "Training", "Flexible Work", "Global Exposure"],
+      "culture": ["Inclusive", "Learning-focused", "Professional", "Values-driven"],
+      "interviewTips": [
+        "Strong fundamentals needed",
+        "Good aptitude preparation",
+        "Communication skills important",
+        "Know about Wipro's vision",
+        "Be ready for technical questions"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Accenture",
+      "logo": "https://img.logo.dev/accenture.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Service Based",
+      "description": "Accenture is a global professional services company with leading capabilities in digital, cloud and security, helping clients in over 120 countries.",
+      "locations": ["Bangalore", "Mumbai", "Hyderabad", "Chennai", "Pune", "Gurgaon"],
+      "companySize": "700,000+ globally, 200,000+ India",
+      "founded": 1989,
+      "roles": [
+        {
+          "title": "Application Development Associate",
+          "salaryRange": "₹4.5 - 5.5 LPA",
+          "averageSalary": 5.0,
+          "experience": "0-1 years",
+          "skills": ["Programming", "Database", "Agile", "Problem Solving"],
+          "responsibilities": [
+            "Develop application components",
+            "Follow coding standards",
+            "Participate in training",
+            "Support senior developers"
+          ]
+        },
+        {
+          "title": "Application Development Senior Analyst",
+          "salaryRange": "₹9 - 15 LPA",
+          "averageSalary": 12.0,
+          "experience": "4-6 years",
+          "skills": ["Advanced Development", "Design", "Client Management", "Leadership"],
+          "responsibilities": [
+            "Lead development activities",
+            "Design technical solutions",
+            "Mentor team members",
+            "Manage client expectations"
+          ]
+        },
+        {
+          "title": "Technology Consulting Manager",
+          "salaryRange": "₹20 - 35 LPA",
+          "averageSalary": 27.5,
+          "experience": "8-12 years",
+          "skills": ["Consulting", "Strategy", "Digital Transformation", "Stakeholder Management"],
+          "responsibilities": [
+            "Lead consulting engagements",
+            "Provide strategic guidance",
+            "Business development",
+            "Team management"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Assessment",
+        "Cognitive & Technical Assessment",
+        "Interview Rounds (2-3)",
+        "HR Discussion"
+      ],
+      "eligibility": {
+        "education": "B.E/B.Tech/MCA/M.Sc",
+        "cgpa": "6.5+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["All tier colleges"]
+      },
+      "difficulty": "Medium",
+      "selectionRatio": 0.15,
+      "workLifeBalance": 4.0,
+      "innovation": 4.2,
+      "growth": 4.4,
+      "glassdoorRating": 4.0,
+      "benefits": ["Health Insurance", "Learning Budget", "Global Mobility", "Flexible Benefits"],
+      "culture": ["Diverse", "Collaborative", "Innovation-driven", "Career growth focused"],
+      "interviewTips": [
+        "Strong problem-solving skills",
+        "Business acumen important",
+        "Communication is crucial",
+        "Know about consulting",
+        "Prepare case studies"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cognizant",
+      "logo": "https://img.logo.dev/cognizant.com?token=pk_NpcvBgjSR-GcVzriEETDQQ&retina=true",
+      "category": "Service Based",
+      "description": "Cognizant is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era.",
+      "locations": ["Chennai", "Bangalore", "Pune", "Hyderabad", "Kolkata"],
+      "companySize": "350,000+ globally, 150,000+ India",
+      "founded": 1994,
+      "roles": [
+        {
+          "title": "Programmer Analyst Trainee",
+          "salaryRange": "₹4.0 - 5.0 LPA",
+          "averageSalary": 4.5,
+          "experience": "0-1 years",
+          "skills": ["Java/C#", "SQL", "Web Technologies", "Analytical Skills"],
+          "responsibilities": [
+            "Complete training program",
+            "Work on project assignments",
+            "Learn best practices",
+            "Collaborate with teams"
+          ]
+        },
+        {
+          "title": "Associate - Projects",
+          "salaryRange": "₹7 - 11 LPA",
+          "averageSalary": 9.0,
+          "experience": "3-5 years",
+          "skills": ["Application Development", "Domain Knowledge", "Client Handling"],
+          "responsibilities": [
+            "Develop and maintain applications",
+            "Interact with clients",
+            "Support project delivery",
+            "Guide junior members"
+          ]
+        },
+        {
+          "title": "Technical Architect",
+          "salaryRange": "₹18 - 30 LPA",
+          "averageSalary": 24.0,
+          "experience": "8-12 years",
+          "skills": ["Solution Architecture", "Cloud", "Enterprise Patterns", "Leadership"],
+          "responsibilities": [
+            "Define technical strategy",
+            "Design scalable solutions",
+            "Lead technical teams",
+            "Drive innovation"
+          ]
+        }
+      ],
+      "hiringProcess": [
+        "Online Test (Aptitude + Technical)",
+        "Technical Interview",
+        "HR Round",
+        "Offer"
+      ],
+      "eligibility": {
+        "education": "B.E/B.Tech/M.E/M.Tech/MCA",
+        "cgpa": "6.5+ CGPA",
+        "backlog": "No active backlogs",
+        "preferredColleges": ["All colleges"]
+      },
+      "difficulty": "Easy-Medium",
+      "selectionRatio": 0.17,
+      "workLifeBalance": 4.0,
+      "innovation": 3.8,
+      "growth": 4.1,
+      "glassdoorRating": 3.8,
+      "benefits": ["Health Insurance", "Training", "Flexible Work", "Career Development"],
+      "culture": ["Collaborative", "Inclusive", "Learning-focused", "Professional"],
+      "interviewTips": [
+        "Good coding fundamentals",
+        "Aptitude preparation important",
+        "Communication skills valued",
+        "Show eagerness to learn",
+        "Be aware of IT trends"
+      ]
+    }
+  ]
+}
