@@ -4978,43 +4978,6 @@
       "tips": "Show ambition balanced with realistic planning."
     }
   ],
-  "dailyChallenges": {
-    "2024-01-16": {
-      "type": "aptitude",
-      "question": "If 6 men can complete a work in 15 days, how many days will 10 men take?",
-      "options": ["9 days", "10 days", "8 days", "12 days"],
-      "correct": 0,
-      "explanation": "Work = 6 × 15 = 90 man-days. Time for 10 men = 90/10 = 9 days"
-    },
-    "2024-01-17": {
-      "type": "logical",
-      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
-      "options": ["40", "42", "44", "46"],
-      "correct": 1,
-      "explanation": "Pattern: 1×2, 2×3, 3×4, 4×5, 5×6, 6×7 = 42"
-    },
-    "2024-01-18": {
-      "type": "verbal",
-      "question": "Choose the synonym for 'EPHEMERAL'",
-      "options": ["Permanent", "Transient", "Stable", "Enduring"],
-      "correct": 1,
-      "explanation": "Ephemeral means lasting for a very short time, synonym is transient"
-    },
-    "2024-01-19": {
-      "type": "coding",
-      "question": "What is the time complexity of binary search?",
-      "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
-      "correct": 1,
-      "explanation": "Binary search divides the search space in half each time, resulting in O(log n)"
-    },
-    "2024-01-20": {
-      "type": "aptitude",
-      "question": "A train 150m long crosses a platform 250m long in 20 seconds. Find the speed of train.",
-      "options": ["72 km/hr", "54 km/hr", "60 km/hr", "80 km/hr"],
-      "correct": 0,
-      "explanation": "Total distance = 150 + 250 = 400m. Speed = 400/20 = 20 m/s = 72 km/hr"
-    }
-  },
     "mockTests": [
       {
         "id": 1,
